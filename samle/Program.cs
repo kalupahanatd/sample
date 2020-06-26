@@ -15,7 +15,7 @@ namespace samle
             //gdfg
         {
             ///vdvvvxv
-            CreateHostBuilder(args).Build().Run();
+            CreateHostBlder(args).Build().Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
