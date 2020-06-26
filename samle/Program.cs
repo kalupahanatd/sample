@@ -12,6 +12,7 @@ namespace samle
     public class Program
     {
         public static void Main(string[] args)
+            //gdfg
         {
             CreateHostBuilder(args).Build().Run();
         }
